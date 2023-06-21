@@ -1,2 +1,5 @@
 #ignore all folder whith name "migrations"
 */migrations
+
+#ignore folder .vscode
+/.vscode
