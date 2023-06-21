@@ -1,2 +1,2 @@
 #ignore all folder whith name "migrations"
-/migrations
+*/migrations
